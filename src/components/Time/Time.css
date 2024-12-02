@@ -1,0 +1,13 @@
+span {
+    display: block;
+    font-size: 1.3rem;
+    font-family: ubuntuMedium;
+    text-transform: capitalize;
+    color: #000;
+    text-align: center;
+}
+@media screen and (max-width: 450px) {
+    .date {
+        font-size: 1.2rem;
+    }
+}
