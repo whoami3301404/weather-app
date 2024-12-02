@@ -40,7 +40,7 @@ const Weather = () => {
                 });
             }
             else {
-                alert("Error fetch data !\nmake sure your connection is OK\nor enter a correct city or country name !");
+                alert("Error fetch data !\nCheck your connection\nOr enter a correct city or country name !");
                 console.error("Error fetch data !");
             }
         }
